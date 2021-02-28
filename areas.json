@@ -1,0 +1,164 @@
+{
+    "areas": [
+        {
+            "center": {
+                "x": 79,
+                "y": 121
+            },
+            "radius": 10.0,
+            "title": "Peconia pink"
+        },
+        {
+            "center": {
+                "x": 72,
+                "y": 115
+            },
+            "radius": 10.0,
+            "title": "Night-sented stock"
+        },
+        {
+            "center": {
+                "x": 153,
+                "y": 116
+            },
+            "radius": 10.0,
+            "title": "Night-sented stock"
+        },
+        {
+            "center": {
+                "x": 118,
+                "y": 113
+            },
+            "radius": 10.0,
+            "title": "Dwarf Daffodils"
+        },
+        {
+            "center": {
+                "x": 111,
+                "y": 135
+            },
+            "radius": 10.0,
+            "title": "Snowdrops"
+        },
+        {
+            "center": {
+                "x": 197,
+                "y": 138
+            },
+            "radius": 10.0,
+            "title": "Snowdrops"
+        },
+        {
+            "center": {
+                "x": 213,
+                "y": 109
+            },
+            "radius": 22.0,
+            "title": "Rhododendron cosmopolitan"
+        },
+        {
+            "center": {
+                "x": 308,
+                "y": 124
+            },
+            "radius": 10.0,
+            "title": "Anti??????"
+        },
+        {
+            "center": {
+                "x": 358,
+                "y": 120
+            },
+            "radius": 10.0,
+            "title": "Climbing rose (red)"
+        },
+        {
+            "center": {
+                "x": 387,
+                "y": 130
+            },
+            "radius": 10.0,
+            "title": "Hebe???"
+        },
+        {
+            "center": {
+                "x": 462,
+                "y": 123
+            },
+            "radius": 10.0,
+            "title": "Fresia"
+        },
+        {
+            "center": {
+                "x": 570,
+                "y": 113
+            },
+            "radius": 10.0,
+            "title": "Camelia Japonica"
+        },
+        {
+            "center": {
+                "x": 606,
+                "y": 108
+            },
+            "radius": 10.0,
+            "title": "Dahlia"
+        },
+        {
+            "center": {
+                "x": 645,
+                "y": 113
+            },
+            "radius": 10.0,
+            "title": "Tigridia"
+        },
+        {
+            "center": {
+                "x": 634,
+                "y": 132
+            },
+            "radius": 10.0,
+            "title": "Narcissus"
+        },
+        {
+            "center": {
+                "x": 719,
+                "y": 130
+            },
+            "radius": 10.0,
+            "title": "Narcissus"
+        },
+        {
+            "center": {
+                "x": 747,
+                "y": 110
+            },
+            "radius": 10.0,
+            "title": "Rose Queen Elisabeth"
+        },
+        {
+            "center": {
+                "x": 853,
+                "y": 108
+            },
+            "radius": 10.0,
+            "title": "Californian Poppy"
+        },
+        {
+            "center": {
+                "x": 929,
+                "y": 101
+            },
+            "radius": 10.0,
+            "title": "Crocosmia (5)"
+        },
+        {
+            "center": {
+                "x": 996,
+                "y": 86
+            },
+            "radius": 10.0,
+            "title": "Nasturtium"
+        }
+    ]
+}

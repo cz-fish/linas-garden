@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Lina's Garden</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            .imgbox {
+                display: grid;
+                /*height: 100%;*/
+            }
+            .center-fit {
+                max-width: 100%;
+                max-height: 100vh;
+                margin: auto;
+            }
+            #hovertext {
+                background-color: beige;
+                border: 1px solid black;
+                min-width: 200px;
+                min-height: 100px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="imgbox">
+            <img class="center-fit" id="img" src="garden-210228.jpg"/>
+        </div>
+        <div id="hovertext" style="display: none;"></div>
+        <div id="coords"></div>
+
+        <script src="hover.js"></script>
+    </body>
+</html>
